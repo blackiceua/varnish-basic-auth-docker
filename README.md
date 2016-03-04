@@ -1,6 +1,8 @@
 # varnish-basic-auth-docker
 Docker container for Varnish 4.1 with Basic Authentication module compiled in. 
 
+[![](https://badge.imagelayers.io/balmer/varnish-basic-auth:latest.svg)](https://imagelayers.io/?images=balmer/varnish-basic-auth:latest 'Get your own badge on imagelayers.io')
+
 Basic Authentication VMOD git repo [http://git.gnu.org.ua/cgit/vmod-basicauth.git](http://git.gnu.org.ua/cgit/vmod-basicauth.git)
 
 Official Varnish VMOD page [https://www.varnish-cache.org/vmod/basicauth](https://www.varnish-cache.org/vmod/basicauth)
